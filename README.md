@@ -1,1 +1,88 @@
 # roi-tor-film
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>รอยต่อ – ระดมทุนสร้างภาพยนตร์</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Kanit', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: url('ChatGPT Image 14 ก.ค. 2568 12_02_19.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+    }
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 2rem;
+      min-height: 100vh;
+    }
+    h1, h2, h3 {
+      color: #ffdb70;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .button {
+      display: inline-block;
+      padding: 0.8rem 1.5rem;
+      background-color: #ffdb70;
+      color: #333;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <h1>รอยต่อ</h1>
+    <h3>เมื่อความเปลี่ยนแปลง...ไม่เคยรอใคร</h3>
+
+    <div class="section">
+      <h2>เรื่องย่อ</h2>
+      <p>“ต้น” ชายหนุ่มวัยยี่สิบปลาย ๆ ต้องรับภาระดูแลครอบครัวท่ามกลางวิกฤตทั้งเศรษฐกิจและจิตใจ เขาพบว่ายายที่เริ่มหลงลืม คือจุดเริ่มต้นของความเข้าใจบางอย่างที่เปลี่ยนชีวิตเขาไปตลอดกาล</p>
+    </div>
+
+    <div class="section">
+      <h2>เป้าหมายของโครงการ</h2>
+      <ul>
+        <li>ถ่ายทอดประเด็นร่วมสมัยเกี่ยวกับครอบครัวและสุขภาพจิต</li>
+        <li>สร้างความเข้าใจระหว่างคนต่างรุ่น</li>
+        <li>ยกระดับคุณค่าของผู้สูงวัยในสังคม</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>งบประมาณที่ต้องการ</h2>
+      <p>ยอดรวม: 10,000,000 บาท</p>
+      <p>ใช้สำหรับเขียนบท, ทีมงาน, นักแสดง, อุปกรณ์, ตัดต่อ, การตลาด ฯลฯ</p>
+    </div>
+
+    <div class="section">
+      <h2>สิ่งตอบแทนสำหรับผู้สนับสนุน</h2>
+      <ul>
+        <li>ใส่ชื่อในเครดิตท้ายภาพยนตร์</li>
+        <li>ชมรอบปฐมทัศน์ก่อนใคร</li>
+        <li>ของที่ระลึกพิเศษ</li>
+        <li>บัตรเชิญรอบเปิดตัว</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>ร่วมสนับสนุน</h2>
+      <p>บัญชี: นายโยธิน บริสุทธิ์<br>ธนาคารกสิกรไทย 125-2-68001-9<br>PromptPay: 0894208797</p>
+    </div>
+
+    <div class="section">
+      <h2>ติดต่อเรา</h2>
+      <p>Facebook: <a href="https://www.facebook.com/profile.php?id=61578632840660" class="button">เยี่ยมชมเพจ</a><br>Email: yothin.baby@gmail.com<br>โทร: 089-420-8797</p>
+    </div>
+  </div>
+</body>
+</html>
